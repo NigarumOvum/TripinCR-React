@@ -1,5 +1,3 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import tw from "twin.macro";
 import { TopSection } from "./containers/TopSection";

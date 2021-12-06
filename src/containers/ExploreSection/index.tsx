@@ -111,23 +111,23 @@ export function ExploreSection() {
       <ExploreSectionWrapper>
         <Carousel dynamicHeight={false}>
           <Item>
-            <img src={BaliTempleImg} />
+            <img src={BaliTempleImg} alt="1" />
             <Description>Bali Temple</Description>
           </Item>
           <Item>
-            <img src={RiceTerraceImg} />
+            <img src={RiceTerraceImg} alt="1" />
             <Description>Rice Terrace</Description>
           </Item>
           <Item>
-            <img src={ExoticBromoImg} />
+            <img src={ExoticBromoImg} alt="1"/>
             <Description>Exotic Bromo</Description>
           </Item>
           <Item>
-            <img src={MaleMaldivesImg} />
+            <img src={MaleMaldivesImg}alt="1" />
             <Description>Male Maldives</Description>
           </Item>
           <Item>
-            <img src={IceTeaImg} />
+            <img src={IceTeaImg} alt="1"/>
             <Description>Ice Tea</Description>
           </Item>
         </Carousel>

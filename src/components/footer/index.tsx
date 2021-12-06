@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-scroll";
 import tw from "twin.macro";
 import { Logo } from "../Logo";
@@ -194,16 +193,16 @@ export function Footer() {
             © {new Date().getFullYear()} TRAVELYA. All rights reserved.
           </Copyright>
           <SmallText>
-            <a href="#">Terms of Service</a>
+            <a href="/">Terms of Service</a>
           </SmallText>
           <SmallText>
-            <a href="#">Privacy Policy</a>
+            <a href="/">Privacy Policy</a>
           </SmallText>
           <SmallText>
-            <a href="#">Security</a>
+            <a href="/">Security</a>
           </SmallText>
           <SmallText>
-            <a href="#">Sitemap</a>
+            <a href="/">Sitemap</a>
           </SmallText>
         </BottomSection>
       </Wrapper>
