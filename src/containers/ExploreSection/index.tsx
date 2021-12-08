@@ -5,11 +5,11 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 //Images
-import BaliTempleImg from "../../images/bali-temple.jpg";
-import RiceTerraceImg from "../../images/rice-terrace.jpg";
-import ExoticBromoImg from "../../images/exotic-bromo.jpg";
-import MaleMaldivesImg from "../../images/male-maldives.jpg";
-import IceTeaImg from "../../images/ice-tea.jpg";
+import puertoviejolimonImg from "../../images/puertoviejolimon.jpeg";
+import islauvitaImg from "../../images/islauvita.jpg";
+import manzanilloImg from "../../images/manzanillo.jpeg";
+import bahiaballenaImg from "../../images/bahiaballena.jpeg";
+import nauyacaImg from "../../images/nauyaca.jpeg";
 
 const ExploreSectionContainer = tw(Element)`
     w-full
@@ -110,24 +110,24 @@ export function ExploreSection() {
       <ExploreSectionWrapper>
         <Carousel dynamicHeight={false}>
           <Item>
-            <img src={BaliTempleImg} alt="1" />
-            <Description>Bali Temple</Description>
+            <img src={puertoviejolimonImg} alt="1" />
+            <Description>Puerto Viejo, Limon</Description>
           </Item>
           <Item>
-            <img src={RiceTerraceImg} alt="1" />
-            <Description>Rice Terrace</Description>
+            <img src={islauvitaImg} alt="1" />
+            <Description>Isla Uvita, Limon</Description>
           </Item>
           <Item>
-            <img src={ExoticBromoImg} alt="1"/>
-            <Description>Exotic Bromo</Description>
+            <img src={manzanilloImg} alt="1"/>
+            <Description>Mirador Manzanillo, Limon</Description>
           </Item>
           <Item>
-            <img src={MaleMaldivesImg}alt="1" />
-            <Description>Male Maldives</Description>
+            <img src={bahiaballenaImg}alt="1" />
+            <Description>Bahia Ballena, Puntarenas</Description>
           </Item>
           <Item>
-            <img src={IceTeaImg} alt="1"/>
-            <Description>Ice Tea</Description>
+            <img src={nauyacaImg} alt="1"/>
+            <Description>Nauyaca Falls, Baru, Puntarenas</Description>
           </Item>
         </Carousel>
       </ExploreSectionWrapper>
