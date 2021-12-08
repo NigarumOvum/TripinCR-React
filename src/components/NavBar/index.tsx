@@ -65,9 +65,7 @@ export function NavBar() {
       <NavItem>
         <Link to="Explore">Explore</Link>
       </NavItem>
-      <NavItem>
-        <Link to="TravelPlaces">Travel Places</Link>
-      </NavItem>
+
     </NavItems>
   );
 

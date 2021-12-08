@@ -1,9 +1,8 @@
-import React from "react";
 import { Link } from "react-scroll";
 import styled from "styled-components";
 import tw from "twin.macro";
 import { NavBar } from "../../components/NavBar";
-import BackgroundImage from "../../images/indonesia-high-res.jpg";
+import BackgroundImage from "../../images/cr-high-res.jpeg";
 import { BsArrowDownCircle } from "react-icons/bs";
 
 const TopSectionContainer = styled.div`
@@ -132,11 +131,10 @@ export function TopSection() {
               <text>PARADISE,</text>
             </OutlinedTextSvg>
           </FloatingText>
-          <FloatingText>INDONESIA.</FloatingText>
+          <FloatingText>COSTA RICA.</FloatingText>
           <DescriptionText>
-            Let's explore of the third largest countries in the world, namely
-            indonesia. Enjoy 3 vacation packages at competitive prices and
-            strong soul.
+            Let's explore Costa Rica and discover the best places to visit in the world. We will help you to find the best places to visit in Costa Rica.
+          
           </DescriptionText>
         </InfoSection>
         <ViewMoreButton>

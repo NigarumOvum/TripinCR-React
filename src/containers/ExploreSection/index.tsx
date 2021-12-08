@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import tw from "twin.macro";
 import { Element } from "react-scroll";
@@ -104,7 +103,7 @@ export function ExploreSection() {
       <Title>Explore Travel Places</Title>
       <SectionInfo>
         View our tour package and find out more about the places we will visit
-        together on this journey to the beautifull of indonesia, exploring so
+        together on this journey to the beautifull of Costa Rica, exploring so
         many historical and amazing locations with the group and having so much
         fun.
       </SectionInfo>

@@ -147,9 +147,6 @@ export function Footer() {
               <MenuItem>
                 <Link to="Explore">Explore</Link>
               </MenuItem>
-              <MenuItem>
-                <Link to="TravelPlaces">Travel Places</Link>
-              </MenuItem>
             </Menu>
             <Menu>
               <MenuItem>
@@ -190,7 +187,7 @@ export function Footer() {
         </InnerContainer>
         <BottomSection>
           <Copyright>
-            © {new Date().getFullYear()} TRAVELYA. All rights reserved.
+            © {new Date().getFullYear()} NeighbrDev CR. All rights reserved.
           </Copyright>
           <SmallText>
             <a href="/">Terms of Service</a>
