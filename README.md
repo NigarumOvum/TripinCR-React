@@ -1,16 +1,17 @@
 # TripinCR - (https://tripincr.vercel.app/)
 
-##Built with: 
+## Built with: 
 
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 ![typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![redux](https://img.icons8.com/color/48/000000/redux.png)
 
-## Description:
-
-## Front-end deployed in:
+## Description: 
 Travel Web App to show places of my beautifull Costa Rica.
+
+
+## Front-end deployed in: Vercel
 
 # About Me:
 
