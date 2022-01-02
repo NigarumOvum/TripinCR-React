@@ -1,10 +1,12 @@
+# TripinCR - (https://tripincr.vercel.app/)
 
-# Travel Web App to show places of my beautifull Costa Rica
-
-Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/)  + [TypeScript](https://www.typescriptlang.org/).
+Built & Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/)  + [TypeScript](https://www.typescriptlang.org/).
 
 
-#### Description
+## Description:
+
+## Front-end deployed in:
+Travel Web App to show places of my beautifull Costa Rica.
 
 # About Me:
 
