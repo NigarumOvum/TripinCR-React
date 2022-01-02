@@ -5,6 +5,7 @@
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 ![typescript](https://img.icons8.com/color/48/000000/typescript.png)
+![redux](https://img.icons8.com/color/48/000000/redux.png)
 
 ## Description:
 
